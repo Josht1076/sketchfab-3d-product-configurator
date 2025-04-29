@@ -37,7 +37,7 @@ for (let el of seatTextureSelectors) {
   el.addEventListener('select', (e) => selectSeatTexture(e));
 }
 
-modelViewerEl.setAttribute('data-url-id', '1ea391ec7c3440f18c2a6a7be3fdb184');
+modelViewerEl.setAttribute('data-url-id', '9cd1ab2d16de49aea932f4b9ded835cd');
 modelViewerEl.setAttribute(
   'data-base-textures-url',
   'https://hornflakes.github.io/sketchfab-3d-product-configurator/src/assets'
